@@ -1,0 +1,11 @@
+D:\TAMUCC\Fall18\SoftwareEngineering\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.exe.config
+D:\TAMUCC\Fall18\SoftwareEngineering\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.exe
+D:\TAMUCC\Fall18\SoftwareEngineering\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.pdb
+D:\TAMUCC\Fall18\SoftwareEngineering\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csprojAssemblyReference.cache
+D:\TAMUCC\Fall18\SoftwareEngineering\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.MainForm.resources
+D:\TAMUCC\Fall18\SoftwareEngineering\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.Properties.Resources.resources
+D:\TAMUCC\Fall18\SoftwareEngineering\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csproj.GenerateResource.cache
+D:\TAMUCC\Fall18\SoftwareEngineering\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csproj.CoreCompileInputs.cache
+D:\TAMUCC\Fall18\SoftwareEngineering\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.exe
+D:\TAMUCC\Fall18\SoftwareEngineering\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.pdb
+D:\TAMUCC\Fall18\SoftwareEngineering\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.OrderPanel.resources
